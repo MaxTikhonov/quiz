@@ -26,6 +26,29 @@ body {
   height: 100vh;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+
+  li {
+    padding: 15px;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+
+    &:hover {
+      border: 2px solid rgba(0, 0, 0, 0.3);
+    }
+  }
+}
+
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
 .App {
   width: 500px;
   border-radius: 30px;
@@ -104,21 +127,5 @@ body {
     margin: 0;
   }
 
-  ul {
-    list-style: none;
-    padding: 0;
 
-    li {
-      padding: 15px;
-      border: 2px solid rgba(0, 0, 0, 0.1);
-      border-radius: 15px;
-      margin-bottom: 10px;
-      cursor: pointer;
-      transition: all 0.1s ease-in-out;
-
-      &:hover {
-        border: 2px solid rgba(0, 0, 0, 0.3);
-      }
-    }
-  }
 }
