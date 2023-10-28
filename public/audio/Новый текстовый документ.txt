@@ -1,0 +1,5 @@
+{count > 3 ? (<audio id="musicplayer" autoPlay>
+    <source src="/audio/klubnichki.mp3" />
+   </audio>) : (<audio id="musicplayer" autoPlay>
+    <source src="/audio/fail.mp3" />
+   </audio>)}
