@@ -1,0 +1,58 @@
+[
+ {
+   "title": "Как переводится his?",
+   "variants": ["её", "он", "его", "ты"],
+   "correct": 2
+ },
+ {
+   "title": "Переведи местоимение ТЫ на английский",
+   "variants": ["their", "she", "he", "your", "you"],
+   "correct": 4
+ },
+ {
+   "title": "Как будет ИХ по-английски?",
+   "variants": [
+     "our",
+     "her",
+     "they",
+     "their",
+     "your"
+   ],
+   "correct": 3
+ },
+ {
+  "title": "Переведи на английский местоимение ЕЁ",
+  "variants": ["she", "its", "her", "am", "he"],
+  "correct": 2
+},
+{
+ "title": "Как по-английски НАШ?",
+ "variants": ["we", "our", "you", "his", "their"],
+ "correct": 1
+},
+{
+ "title": "Как по-английски МЫ",
+ "variants": ["he", "she", "you", "they", "we"],
+ "correct": 4
+},
+{
+ "title": "Какое из слов переводится как ГДЕ?",
+ "variants": ["What", "Who", "Where", "Why", "How"],
+ "correct": 2
+},
+{
+ "title": "Девочка",
+ "variants": ["boy", "doll", "girl", "tree", "king"],
+ "correct": 2
+},
+{
+ "title": "Какое из слов переводится как ЧТО?",
+ "variants": ["What", "Who", "Where", "Why", "How"],
+ "correct": 0
+},
+{
+ "title": "Какое из слов переводится как КАК?",
+ "variants": ["What", "Who", "Where", "Why", "How"],
+ "correct": 4
+}
+]
